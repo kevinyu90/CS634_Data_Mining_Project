@@ -1,0 +1,20 @@
+Milk,Beer,Chip,Diaper
+Cereal,Egg,Vitamin,Paper towel,Ice cream,Apple
+Paper towel,Milk,Diaper
+Diaper,Chip,Ice cream,Vitamin,Paper towel,Apple
+Milk,Apple,Vitamin,Paper towel
+Apple,Cereal,Ice cream
+Milk,Cereal,Paper towel,Vitamin,Egg
+Paper towel,Diaper
+Chip
+Vitamin,Beer,Ice cream,Egg,Apple
+Diaper,Chip,Vitamin,Beer,Paper towel,Egg
+Vitamin,Cereal,Milk,Apple,Chip
+Beer,Milk,Chip,Egg,Ice cream,Apple
+Vitamin,Apple,Egg,Ice cream,Milk
+Chip,Vitamin,Egg,Diaper,Beer,Apple
+Beer,Ice cream,Diaper,Milk,Apple
+Egg,Apple
+Ice cream,Beer,Milk,Diaper,Cereal,Apple
+Chip,Beer
+Ice cream,Chip,Paper towel,Diaper
